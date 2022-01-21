@@ -1,0 +1,47 @@
+html {
+  font-family: sans-serif;
+}
+title{
+	font-family: sans-serif;	
+}
+body{
+	background-image: url("http://www.hdbloggers.net/wp-content/uploads/2016/09/Pink-Pictures-HD-Backgrounds.jpg");
+	background-position: center center; 
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+}
+			
+input{
+	height: 40px;
+	width: 300px;
+	font-size: 18px;
+	margin-bottom: 20px;
+	border-radius: 30px;
+	border:none;
+	background-color:#CEF6F5; 
+	padding-left: 30px; 
+}
+select{
+			height: 35px;
+			width: 430px;
+			font-size: 18px;
+			margin-bottom: 20px;
+			border-radius: 30px;
+			border:none;
+			background-color: #CEF6F5; 
+			padding-left: 30px; 
+}
+
+.btn-login{
+	padding: 15px 30px;
+	cursor: pointer;
+	color: #000;
+	border-radius: 30px;
+	border: none;
+	background-color:#D0A9F5;
+	border-bottom: 4px;  
+	margin-bottom: 20px;
+	
+}
+a{font-size:50px; color:#000; }
